@@ -1,6 +1,6 @@
 # Java compiled files
 *.class
-
+*.zip
 # Java build files
 *.jar
 
